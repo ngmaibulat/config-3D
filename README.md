@@ -1,1 +1,4 @@
-# config-3D
+### CPU/GPU
+
+- `AMD Ryzen 7 7730U`
+

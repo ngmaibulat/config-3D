@@ -7,4 +7,3 @@ vulkaninfo --summary
 glslc --version
 
 vkcube
-
